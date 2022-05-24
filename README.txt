@@ -1,0 +1,1 @@
+Упражнения из книги Tony Gaddis "Starting out with Python" 4-th edition
